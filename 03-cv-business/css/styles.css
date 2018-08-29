@@ -103,6 +103,8 @@ b.max-bold{ font-weight: 700; }
 .margin-tb-30{ margin-top: 30px; margin-bottom: 30px; }
 .margin-tb-50{ margin-top: 50px; margin-bottom: 50px; }
 
+.height-200{height: 200px;}
+
 .font-yellow{ color: #FFA600; }
 
 .font-semi-white{ color: #ddd; }
